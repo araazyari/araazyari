@@ -1,16 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Saeed Yari
 
-I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable
-and efficient solutions using various frameworks and databases.
+I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable and efficient solutions using various frameworks and databases.
 
-## My Tech Stack
+<details><summary>My Tech Stack</summary>
 
-<details><summary style="font-size: 1.25em; font-weight: bold">For Language</summary>
-    <span style="display: block; margin: 5px 15px">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/GO-777BB4?style=for-the-badge&logo=go&logoColor=white" alt="GO" />
-    </span>
-</details>
+### For Language
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GO](https://img.shields.io/badge/GO-777BB4?style=for-the-badge&logo=go&logoColor=white)
 
 ### For Framework
 
@@ -58,3 +58,15 @@ and efficient solutions using various frameworks and databases.
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+
+<details><summary>My GitHub Stat</summary>
+
+</details>
+
+<details><summary>My Contact Info</summary>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedyari)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://contact@saeedyari.ir)
+
+</details>
