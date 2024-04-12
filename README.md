@@ -2,22 +2,26 @@
 
 I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable and efficient solutions using various frameworks and databases.
 
-## Backend Development
+## Backend Development Frameworks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-1F425F?style=for-the-badge&logo=Symfony&logoColor=white)
 
-## Databases
+## Databases (SQL and NoSQL)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## Monitoring Environment
+## Caching Tools
+
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Memcached](https://img.shields.io/badge/Memcached-005571?style=for-the-badge&logo=Memcached&logoColor=white)
+
+## Monitoring Stack
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
@@ -32,7 +36,7 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-## Testing
+## Testing Tools
 
 ![Test-Driven Development](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=pivotal-tracker&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3775FF?style=for-the-badge&logo=phpunit&logoColor=white)
