@@ -1,12 +1,15 @@
 # Saeed Yari
 
-I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable and efficient solutions using various frameworks and databases.
+I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable
+and efficient solutions using various frameworks and databases.
 
 ## My Tech Stack
 
-<details><summary>For Language</summary>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/GO-777BB4?style=for-the-badge&logo=go&logoColor=white" alt="GO" />
+<details><summary style="font-size: 1.25em; font-weight: bold">For Language</summary>
+    <span style="display: block; margin: 5px 15px">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/GO-777BB4?style=for-the-badge&logo=go&logoColor=white" alt="GO" />
+    </span>
 </details>
 
 ### For Framework
