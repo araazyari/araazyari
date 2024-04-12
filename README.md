@@ -38,7 +38,6 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 
 ## Testing Tools
 
-![Test-Driven Development](https://img.shields.io/badge/TDD-000000?style=for-the-badge&logo=pivotal-tracker&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3775FF?style=for-the-badge&logo=phpunit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Laravel Dusk](https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
