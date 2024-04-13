@@ -4,6 +4,9 @@
 
 I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable and efficient solutions using various frameworks and databases.
 
+![Profile Views](https://komarev.com/ghpvc/?username=araazyari&style=for-the-badge&color=yellow)
+
+
 <details><summary>My Tech Stack</summary>
 
 ### For Language
@@ -63,14 +66,9 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 </details>
 
 <details><summary>My Contact Info</summary>
-<span style="display: block; margin: 15px">
-  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedyari)
 [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://contact@saeedyari.ir)
 
-</span>
 
 </details>
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=araazyari.araazyari&)
