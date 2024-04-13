@@ -68,6 +68,6 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 <details><summary><h3>My Contact Info</h3></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedyari)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saeedyari.ir)
+[![Email Address](https://img.shields.io/badge/Email%20Address-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saeedyari.ir)
 
 </details>
