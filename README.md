@@ -1,10 +1,11 @@
 ![PHP](./images/banner.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=araazyari&style=for-the-badge&color=yellow)
 
-# Saeed Yari
+<details><summary><h3>About Me</h3></summary>
 
 I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience. I'm passionate about building scalable and efficient solutions using various frameworks and databases.
 
-![Profile Views](https://komarev.com/ghpvc/?username=araazyari&style=for-the-badge&color=yellow)
+</details>
 
 <details><summary><h3>My Tech Stack</h3></summary>
 
