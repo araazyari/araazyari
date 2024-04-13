@@ -6,37 +6,36 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 
 ![Profile Views](https://komarev.com/ghpvc/?username=araazyari&style=for-the-badge&color=yellow)
 
+<details><summary><h3>My Tech Stack</h3></summary>
 
-<details><summary>My Tech Stack</summary>
-
-### For Language
+#### For Language
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![GO](https://img.shields.io/badge/GO-777BB4?style=for-the-badge&logo=go&logoColor=white)
 
-### For Framework
+#### For Framework
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Lumen-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-1F425F?style=for-the-badge&logo=Symfony&logoColor=white)
 
-### For Database (SQL and NoSQL)
+#### For Database (SQL and NoSQL)
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### For Caching
+#### For Caching
 
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Memcached](https://img.shields.io/badge/Memcached-005571?style=for-the-badge&logo=Memcached&logoColor=white)
 
-### For Monitoring
+#### For Monitoring
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=Logstash&logoColor=white)
 
-### For API Gateway
+#### For API Gateway
 
 ![Kong API Gateway](https://img.shields.io/badge/Kong-000000?style=for-the-badge&logo=kong&logoColor=white)
 
@@ -45,14 +44,14 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
-### For Testing
+#### For Testing
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3775FF?style=for-the-badge&logo=phpunit&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Laravel Dusk](https://img.shields.io/badge/Laravel%20Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-FF2D20?style=for-the-badge&logo=pestphp&logoColor=white)
 
-### For DevOps
+#### For DevOps
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
@@ -61,14 +60,13 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 </details>
 
-<details><summary>My GitHub Stat</summary>
+<details><summary><h3>My GitHub Stat</h3></summary>
 
 </details>
 
-<details><summary><h1 style="display: inline; margin-left: 5px; vertical-align: -5px">My Contact Info</h1></summary>
+<details><summary><h3>My Contact Info</h3></summary>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeedyari)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://contact@saeedyari.ir)
-
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@saeedyari.ir)
 
 </details>
