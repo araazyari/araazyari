@@ -1,5 +1,5 @@
 ![PHP](./images/banner.svg)
-![Profile Views](https://komarev.com/ghpvc/?username=araazyari&style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=syaritech&style=for-the-badge&color=yellow)
 
 <details><summary><h3>About Me</h3></summary>
 
@@ -62,6 +62,8 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 </details>
 
 <details><summary><h3>My GitHub Stat</h3></summary>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaritech&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 </details>
 
