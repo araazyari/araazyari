@@ -63,7 +63,8 @@ I'm Saeed Yari, a seasoned PHP Backend Developer with over 5 years of experience
 
 <details><summary><h3>My GitHub Stat</h3></summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaritech&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaritech&show_icons=true&locale=en)
+![Anurag's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=syaritech)
 
 </details>
 
